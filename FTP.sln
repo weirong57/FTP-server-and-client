@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FTPserver", "FTPserver\FTPserver.vcxproj", "{9A507956-B603-4BEF-B31D-20A52A56EDCD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FTPclient", "FTPclient\FTPclient.vcxproj", "{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Debug|x64.ActiveCfg = Debug|x64
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Debug|x64.Build.0 = Debug|x64
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Debug|x86.Build.0 = Debug|Win32
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Release|x64.ActiveCfg = Release|x64
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Release|x64.Build.0 = Release|x64
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Release|x86.ActiveCfg = Release|Win32
+		{9A507956-B603-4BEF-B31D-20A52A56EDCD}.Release|x86.Build.0 = Release|Win32
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Debug|x64.ActiveCfg = Debug|x64
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Debug|x64.Build.0 = Debug|x64
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Debug|x86.Build.0 = Debug|Win32
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Release|x64.ActiveCfg = Release|x64
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Release|x64.Build.0 = Release|x64
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Release|x86.ActiveCfg = Release|Win32
+		{0FB54BBD-84AE-4116-B58A-5B5D6894F3D8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA403C7-B171-421F-9B8B-725EC9089B22}
+	EndGlobalSection
+EndGlobal
